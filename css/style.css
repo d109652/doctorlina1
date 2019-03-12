@@ -734,6 +734,21 @@ header.page-header .main-menu.minified{
 	padding: 20px;
 }
 
+/* SLIDER*/
+.sidebar_gallery {}
+
+.gallery_items {
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:space-between;
+}
+
+.colorbox:hover{
+background: rgba(0, 0, 0, 0.5);
+opacity:0.7}
+
 .portfolio-section{
   padding: 100px 0 0;
 }
