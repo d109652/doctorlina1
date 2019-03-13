@@ -744,10 +744,11 @@ header.page-header .main-menu.minified{
   align-items:center;
   justify-content:space-between;
 }
-
+.gallery_item{
+}
 .colorbox:hover{
-background: rgba(0, 0, 0, 0.5);
-opacity:0.7}
+
+opacity:0.80}
 
 .portfolio-section{
   padding: 100px 0 0;
