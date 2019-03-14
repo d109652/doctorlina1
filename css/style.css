@@ -734,7 +734,7 @@ header.page-header .main-menu.minified{
 	padding: 20px;
 }
 
-/* SLIDER*/
+/* SLIDER opacity:0.80 */
 .sidebar_gallery {}
 
 .gallery_items {
@@ -744,11 +744,9 @@ header.page-header .main-menu.minified{
   align-items:center;
   justify-content:space-between;
 }
-.gallery_item{
+.colorbox img:hover{
+opacity:0.7;
 }
-.colorbox:hover{
-
-opacity:0.80}
 
 .portfolio-section{
   padding: 100px 0 0;
